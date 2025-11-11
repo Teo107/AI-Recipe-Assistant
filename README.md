@@ -3,6 +3,8 @@
 AI Recipe Assistant is a smart recipe generator powered by Google Gemini and built with Streamlit.  
 It creates personalized recipes based on your available ingredients, taste preferences, diet, allergies, and budget.
 
+🌐 **Live demo:** [AI-Recipe-Assistant](https://ai-recipe-assistant.streamlit.app/)
+
 ---
 
 ## 🚀 Features
